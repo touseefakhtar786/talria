@@ -39,7 +39,7 @@ export default function CuffComparisonGraphic() {
               </span>
               <span className="text-xs font-mono text-rose-400 font-bold">HIGH MORBIDITY RISK</span>
             </div>
-            <h4 className="text-xl font-bold text-white">Traumatic Balloon Compression</h4>
+            <h4 className="text-xl font-bold text-white">Balloon Compression and Distension</h4>
             <p className="text-xs text-slate-300 leading-relaxed">
               Standard supraglottic airways rely on air inflation through a pilot balloon. In clinical practice, overinflation occurs in over 80% of routine cases, creating pressures reaching 80–120 cmH2O.
             </p>
@@ -165,7 +165,7 @@ export default function CuffComparisonGraphic() {
           <div className="bg-[#040e0e] rounded-xl p-4 border border-emerald-900/40 relative">
             <div className="text-[10px] text-slate-400 font-mono mb-2 flex justify-between">
               <span>MUCOSAL TISSUE CROSS-SECTION</span>
-              <span className="text-emerald-400 font-bold">CAPILLARY PERFUSION: 100% UNCOMPROMISED</span>
+              <span className="text-emerald-400 font-bold">CAPILLARY PERFUSION: Least compression</span>
             </div>
 
             <svg viewBox="0 0 400 180" className="w-full h-auto">
@@ -223,11 +223,11 @@ export default function CuffComparisonGraphic() {
             </div>
             <div className="flex items-start gap-2 text-emerald-300">
               <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0 mt-0.5" />
-              <span><strong>Sub-5 Second Placement:</strong> No syringe, no manometer check, no cuff inflation calculations.</span>
+              <span><strong>Insertion with-in 5 Second:</strong> No syringe, no manometer check, no cuff inflation calculations.</span>
             </div>
             <div className="flex items-start gap-2 text-emerald-300">
               <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 shrink-0 mt-0.5" />
-              <span><strong>Superior Oropharyngeal Seal:</strong> Consistently delivers &gt;30 cmH2O seal pressure for ventilation.</span>
+              <span><strong>Superior laryngeal Seal:</strong> Consistently delivers &gt;30 cmH2O seal pressure for ventilation.</span>
             </div>
           </div>
         </div>

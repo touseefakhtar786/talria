@@ -67,7 +67,7 @@ function HomePage() {
 
               {/* Subtitle */}
               <p className="text-base sm:text-lg text-slate-300 leading-relaxed font-light max-w-2xl mx-auto lg:mx-0">
-                Home to the intellectual property and clinical biomechanics developed by renowned consultant anaesthetist{' '}
+                Home to the intellectual property and clinical biomechanics developed by renowned consultant anesthesiologist{' '}
                 <strong className="text-white font-semibold">Dr. Muhammed Aslam Nasir</strong> (Macewen Medal Recipient).
                 Powering <strong className="text-sky-300 font-semibold">i-gel®</strong> in human emergency medicine and{' '}
                 <strong className="text-emerald-300 font-semibold">v-gel®</strong> in species-specific veterinary anaesthesia across 100+ countries.
@@ -140,7 +140,7 @@ function HomePage() {
               <span className="text-[11px] text-slate-400">Routine & emergency care</span>
             </div>
             <div className="p-5 rounded-2xl bg-[#0b1528]/80 border border-sky-900/40 text-center">
-              <div className="text-3xl sm:text-4xl font-extrabold text-teal-400 font-mono">50M+</div>
+              <div className="text-3xl sm:text-4xl font-extrabold text-teal-400 font-mono">75M+</div>
               <p className="text-xs sm:text-sm text-slate-300 mt-1 font-medium">Procedures Worldwide</p>
               <span className="text-[11px] text-slate-400">Human & veterinary patients</span>
             </div>
@@ -441,7 +441,7 @@ function HomePage() {
                     <Award className="w-4 h-4" />
                     Managing Director & Chief Inventor
                   </span>
-                  <span className="text-xs text-slate-400 font-mono">MBBS, FRCA &bull; Consultant Anaesthetist</span>
+                  <span className="text-xs text-slate-400 font-mono">MBBS, FRCA &bull; Consultant Anesthesiologist</span>
                 </div>
 
                 <h3 className="text-3xl sm:text-4xl font-extrabold text-white">
@@ -496,7 +496,7 @@ function HomePage() {
           </div>
         )}
 
-        {/* 4 Directors Grid with Portraits */}
+        {/* Executive Leadership Grid with Portraits */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {directors.slice(1).map((dir) => (
             <div
@@ -504,7 +504,7 @@ function HomePage() {
               className="card-glass card-glass-hover rounded-2xl overflow-hidden border border-slate-800 flex flex-col justify-between"
             >
               <div>
-                {/* Director Portrait Header */}
+                {/* Executive Portrait Header */}
                 <div className="relative h-44 overflow-hidden border-b border-slate-800">
                   <img
                     src={dir.imageUrl}
@@ -513,7 +513,7 @@ function HomePage() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0c1a32] via-[#0c1a32]/30 to-transparent" />
                   <span className="absolute top-3 right-3 text-[10px] font-mono uppercase px-2 py-0.5 rounded bg-sky-950/90 text-sky-300 border border-sky-800/60 backdrop-blur-sm">
-                    Director
+                    {dir.id === 'mr-touseef-akhtar' ? 'General Manager' : 'Director'}
                   </span>
                 </div>
 

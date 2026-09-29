@@ -69,7 +69,7 @@ function LeadershipPage() {
                   Managing Director & Chief Inventor
                 </span>
                 <span className="text-xs font-mono text-slate-300 bg-slate-900/80 px-2.5 py-1 rounded-md border border-slate-700">
-                  MBBS, FRCA &bull; Consultant anesthesiologist
+                  MBBS, FRCA &bull; Consultant Anesthesiologist
                 </span>
               </div>
 
@@ -167,7 +167,7 @@ function LeadershipPage() {
             Executive Leadership Team
           </span>
           <h2 className="text-3xl font-bold text-white tracking-tight mt-1">
-            Directors of TALRIA LIMITED DMCC
+            Executive Leadership &amp; Board of TALRIA LIMITED DMCC
           </h2>
           <p className="text-slate-400 text-sm mt-1">
             Guiding technical execution, commercial growth, international partnerships, and fiscal governance.
@@ -190,7 +190,7 @@ function LeadershipPage() {
                 <div className="absolute inset-0 bg-gradient-to-t from-[#081326] via-[#081326]/40 to-transparent" />
                 <div className="absolute top-4 right-4">
                   <span className="text-[11px] font-mono uppercase px-2.5 py-1 rounded bg-sky-950/90 text-sky-300 border border-sky-800/60 backdrop-blur-sm">
-                    Director
+                    {dir.id === 'mr-touseef-akhtar' ? 'General Manager' : 'Director'}
                   </span>
                 </div>
                 <div className="absolute bottom-3 left-5 right-5">
