@@ -2,7 +2,7 @@
 
 Official website for **TALRIA LIMITED DMCC**, the global medical technology, intellectual property holding, and licensing enterprise headquartered in the Dubai Multi Commodities Centre (Dubai, UAE; transferred from Isle of Man).
 
-The platform showcases the ground-breaking airway innovations developed by **Dr. Muhammed Aslam Nasir** (MBBS, FRCA, Consultant Anaesthetist & Macewen Medalist), including the human **i-gel®** supraglottic airway device and the veterinary species-specific **v-gel®** airway portfolio.
+The platform showcases the ground-breaking airway innovations developed by **Dr. Muhammed Aslam Nasir** (MBBS, FRCA, Consultant anesthesiologist & Macewen Medalist), including the human **i-gel®** supraglottic airway device and the veterinary species-specific **v-gel®** airway portfolio.
 
 ---
 
