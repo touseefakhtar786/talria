@@ -130,6 +130,29 @@ export const directors: Director[] = [
     initials: 'DN',
     imageUrl: '/images/director-danyal.jpg',
   },
+  {
+    id: 'mr-touseef-akhtar',
+    name: 'Mr. Touseef Akhtar',
+    title: 'General Manager',
+    role: 'Business Development',
+    credentials: 'Master of Business Administration (MBA) in Healthcare; Executive Diploma in International Business Management',
+    bio: 'Mr. Touseef Akhtar directs strategic operations, commercial development, and R&D pipelines for TALRIA LIMITED DMCC from the company's headquarters in the Dubai Multi Commodities Centre (DMCC). Bringing extensive multi-sector experience in Pharma, healthcare and medical device innovation, Mr. Akhtar leads the enterprise's research initiatives, product engineering roadmaps, and global clinical validation strategies.
+Working in alignment with the firm's fiscal and corporate governance framework—overseen by Company Directors —Mr. Akhtar coordinates cross-border technology transfers, regulatory compliance protocols, and commercialization pathways for advanced medical technologies. His leadership bridges scientific innovation with rigorous operational execution, driving the continuous development and global market introduction of proprietary medical devices.',
+    keyFocus: [
+      'irecting overarching business operations, budgeting frameworks, and organizational compliance to meet strict UAE Free Zone and international regulatory standards.',
+      'Overseeing the commercial lifecycle and strategic value realization of proprietary medical technologies, clinical data assets, and global product innovations.',
+      'Directing targeted investment into product pipelines, clinical validation phases, regulatory approval pathways, and international patent protection.',
+    ],
+    achievements: [
+      'Successfully structured the transfer of incorporation of Talria Limited to DMCC Dubai',
+      'Managed financial governance for global patent annuities and licensing royalty revenues',
+      'Optimized operational capital allocation for advanced veterinary clinical studies',
+    ],
+    quote:
+      'By aligning disciplined corporate compliance with visionary medical R&D, we transform advanced biomedical intellectual property into scalable global value.',
+    initials: 'TA',
+    imageUrl: '/images/director-danyal.jpg',
+  },
 ]
 
 export const companyDetails = {
