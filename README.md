@@ -19,6 +19,7 @@ The platform showcases the ground-breaking airway innovations developed by **Dr.
    - **Mr. Tuaha Nasir**: Director of Business Development (Bsc in business management & economics).
    - **Mr. Adam Nasir**: Financial Director (fiscal governance, IP valuation, capital allocation, DMCC corporate compliance).
    - **Mr. Danyal Nasir**: Director of Business Development (hospital and veterinary clinic network integration, academic partnerships).
+   - **Mr. Touseef Akhtar**: General Manager (Master of Business Administration (MBA) in Healthcare; Executive Diploma in International Business Management)
 
 3. **Interactive Airway Selection & Sizing Calculator:**
    - Real-time tool allowing clinicians and veterinary doctors to select patient domain (Human, Cat, Rabbit, Dog), configure patient weight, and receive instant recommendations for device size, color code, suction catheter gauge (Fr), optical tube conduit compatibility, and expected seal pressures.
