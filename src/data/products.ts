@@ -54,7 +54,7 @@ export const airwayProducts: AirwayProduct[] = [
     category: 'Human Medicine',
     tagline: 'The 2nd Generation Supraglottic Airway with Non-Inflatable Perilaryngeal Anatomy Seal',
     heroSummary:
-      'Engineered by consultant anaesthetist Dr. Muhammed Aslam Nasir, i-gel® represents one of the greatest advances in modern anaesthesia and emergency resuscitation, replacing cuff inflation with an anatomically mirrored thermoplastic elastomer seal.',
+      'Engineered by consultant anesthesiologist Dr. Muhammed Aslam Nasir, i-gel® represents one of the greatest advances in modern anaesthesia and emergency resuscitation, replacing cuff inflation with an anatomically mirrored thermoplastic elastomer seal.',
     shortDescription:
       'The gold-standard non-inflatable supraglottic airway device used in routine anaesthesia, difficult airway algorithms, and emergency resuscitation worldwide.',
     heroImage: '/images/hero-operating-theatre.jpg',

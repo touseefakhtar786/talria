@@ -48,7 +48,7 @@ function IgelPage() {
               </p>
 
               <p className="text-slate-300 text-base leading-relaxed">
-                Conceived, patented, and clinically developed by consultant anaesthetist <strong className="text-white">Dr. Muhammed Aslam Nasir</strong>, i-gel® revolutionized human anaesthesia and emergency resuscitation by eliminating inflatable cuffs in favor of an anatomical thermoplastic elastomer seal.
+                Conceived, patented, and clinically developed by consultant anesthesiologist <strong className="text-white">Dr. Muhammed Aslam Nasir</strong>, i-gel® revolutionized human anaesthesia and emergency resuscitation by eliminating inflatable cuffs in favor of an anatomical thermoplastic elastomer seal.
               </p>
 
               <div className="flex flex-wrap items-center gap-4 pt-2">
@@ -76,7 +76,7 @@ function IgelPage() {
                 <div className="absolute inset-0 bg-gradient-to-t from-[#060c18] via-transparent to-transparent" />
                 <div className="absolute bottom-3 left-4 right-4">
                   <span className="text-xs font-bold text-white block">Routine Operating Theatre Standard</span>
-                  <span className="text-[10px] text-sky-300">Over 50 million procedures performed safely</span>
+                  <span className="text-[10px] text-sky-300">Over 75 million procedures performed safely</span>
                 </div>
               </div>
             </div>

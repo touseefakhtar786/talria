@@ -18,7 +18,7 @@ export const directors: Director[] = [
     name: 'Dr. Muhammed Aslam Nasir',
     title: 'Managing Director & Chief Inventor',
     role: 'Managing Director & Inventor',
-    credentials: 'MBBS, FRCA, Consultant Anaesthetist',
+    credentials: 'MBBS, FRCA, Consultant Anesthesiologist',
     bio: 'Dr. Muhammed Aslam Nasir is a world-renowned consultant anaesthesiologist, medical innovator, and the pioneering inventor behind the i-gel® human supraglottic airway device and the v-gel® species-specific veterinary airway system. With decades of frontline clinical experience in anaesthesia and critical care, Dr. Nasir revolutionized supraglottic airway management by discovering that an anatomically molded thermoplastic elastomer could replace traumatic inflatable balloons. In 2016, Dr. Nasir was awarded the prestigious Macewen Medal by the Difficult Airway Society (DAS, UK) for outstanding and lasting contribution to airway management. He also serves as President of Docsinnovent Ltd and is the founder of Light4Life, a philanthropic foundation providing emergency disaster relief and education.',
     keyFocus: [
       'Supraglottic airway biomechanics & anatomical modeling',
@@ -136,10 +136,9 @@ export const directors: Director[] = [
     title: 'General Manager',
     role: 'Business Development',
     credentials: 'Master of Business Administration (MBA) in Healthcare; Executive Diploma in International Business Management',
-    bio: 'Mr. Touseef Akhtar directs strategic operations, commercial development, and R&D pipelines for TALRIA LIMITED DMCC from the company's headquarters in the Dubai Multi Commodities Centre (DMCC). Bringing extensive multi-sector experience in Pharma, healthcare and medical device innovation, Mr. Akhtar leads the enterprise's research initiatives, product engineering roadmaps, and global clinical validation strategies.
-Working in alignment with the firm's fiscal and corporate governance framework—overseen by Company Directors —Mr. Akhtar coordinates cross-border technology transfers, regulatory compliance protocols, and commercialization pathways for advanced medical technologies. His leadership bridges scientific innovation with rigorous operational execution, driving the continuous development and global market introduction of proprietary medical devices.',
+    bio: `Mr. Touseef Akhtar directs strategic operations, commercial development, and R&D pipelines for TALRIA LIMITED DMCC from the company's headquarters in the Dubai Multi Commodities Centre (DMCC). Bringing extensive multi-sector experience in Pharma, healthcare and medical device innovation, Mr. Akhtar leads the enterprise's research initiatives, product engineering roadmaps, and global clinical validation strategies. Working in alignment with the firm's fiscal and corporate governance framework—overseen by Company Directors —Mr. Akhtar coordinates cross-border technology transfers, regulatory compliance protocols, and commercialization pathways for advanced medical technologies. His leadership bridges scientific innovation with rigorous operational execution, driving the continuous development and global market introduction of proprietary medical devices.`,
     keyFocus: [
-      'irecting overarching business operations, budgeting frameworks, and organizational compliance to meet strict UAE Free Zone and international regulatory standards.',
+      'Directing overarching business operations, budgeting frameworks, and organizational compliance to meet strict UAE Free Zone and international regulatory standards.',
       'Overseeing the commercial lifecycle and strategic value realization of proprietary medical technologies, clinical data assets, and global product innovations.',
       'Directing targeted investment into product pipelines, clinical validation phases, regulatory approval pathways, and international patent protection.',
     ],
@@ -151,7 +150,7 @@ Working in alignment with the firm's fiscal and corporate governance framework�
     quote:
       'By aligning disciplined corporate compliance with visionary medical R&D, we transform advanced biomedical intellectual property into scalable global value.',
     initials: 'TA',
-    imageUrl: '/images/director-danyal.jpg',
+    imageUrl: '/images/director-touseef.jpg',
   },
 ]
 
