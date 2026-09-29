@@ -69,7 +69,7 @@ function LeadershipPage() {
                   Managing Director & Chief Inventor
                 </span>
                 <span className="text-xs font-mono text-slate-300 bg-slate-900/80 px-2.5 py-1 rounded-md border border-slate-700">
-                  MBBS, FRCA &bull; Consultant Anaesthetist
+                  MBBS, FRCA &bull; Consultant anesthesiologist
                 </span>
               </div>
 
@@ -89,7 +89,7 @@ function LeadershipPage() {
               <div className="space-y-4 text-sm text-slate-300 leading-relaxed">
                 <p>{drNasir.bio}</p>
                 <p>
-                  As an NHS consultant anaesthetist, Dr. Nasir witnessed first-hand the clinical complications caused by inflatable balloon cuffs—including tracheal tear injuries, mucosal ischemia, recurrent nerve damage, and post-operative throat pain. His revolutionary discovery that a non-inflatable anatomical thermoplastic elastomer (SEBS) could naturally mirror the human larynx led to the birth of the <strong>i-gel®</strong>, now used in over 100 countries and manufactured globally by <strong>Intersurgical Ltd</strong>.
+                  As an NHS consultant anaesthesiologist, Dr. Nasir witnessed first-hand the clinical complications caused by inflatable balloon cuffs—including tracheal tear injuries, mucosal ischemia, recurrent nerve damage, and post-operative throat pain. His revolutionary discovery that a non-inflatable anatomical thermoplastic elastomer (SEBS) could naturally mirror the human larynx led to the birth of the <strong>i-gel®</strong>, now used in over 100 countries and manufactured globally by <strong>Intersurgical Ltd</strong>.
                 </p>
                 <p>
                   Recognizing the high mortality and tracheal tears suffered by companion animals (especially cats and rabbits) under general anaesthesia, Dr. Nasir subsequently invented and patented the <strong>v-gel®</strong>, founding <strong>Docsinnovent Ltd</strong> to deliver the world's first species-specific supraglottic devices.
